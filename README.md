@@ -1,5 +1,5 @@
 # Relay-4-Zero
- ![GitHub Logo](/Images/)
+ ![GitHub Logo](/Images/Relay4Zero-1.png)
 
 ## Specifications:
   * 4 - High quality 3V Relay and loads up to 2A/24V DC or 2A/120VAC
