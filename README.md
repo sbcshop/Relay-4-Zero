@@ -15,7 +15,7 @@
   
   * Your code will be downloaded to '/home/pi' directory.
 
-  * 'Test.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
+  * 'test1.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
   
  ## Pin Description: 
  Relays are connected to the pins of the Rasberry Pi. Description of the pins connection is shown below.
