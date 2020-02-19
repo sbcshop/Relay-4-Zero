@@ -17,9 +17,10 @@
 
   * 'Test.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
   
- ## Pin Description:
+ ## Pin Description: 
+ Relays are connected to the pins of the Rasberry Pi. Description of the pins connection is shown below.
    
-   Relay1 - Pin 31
-   Relay2 - Pin 33
-   Relay3 - Pin 35
-   Relay4 - Pin 37
+   * Relay1 - Pin 31
+   * Relay2 - Pin 33
+   * Relay3 - Pin 35
+   * Relay4 - Pin 37
