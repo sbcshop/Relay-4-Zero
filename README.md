@@ -7,7 +7,7 @@
   * Standardized shield shape and design
   * Raspberry Pi 4, 3, 2, and ZERO compatible 40-Pin Stacking Header
   
-## Installing Zero Relay library:
+## Installing Relay 4 Zero library:
 
   * Open Terminal and download the code by writing:
   
