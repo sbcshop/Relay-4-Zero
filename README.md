@@ -11,8 +11,15 @@
 
   * Open Terminal and download the code by writing:
   
-    
+     https://github.com/sbcshop/Relay-4-Zero.git
   
   * Your code will be downloaded to '/home/pi' directory.
 
   * 'Test.py' is example code for Zero Relay. Run test file and controll your devices with ZeroRelay
+  
+ ## Pin Description:
+   
+   Relay1 - Pin 31
+   Relay2 - Pin 33
+   Relay3 - Pin 35
+   Relay4 - Pin 37
