@@ -1,7 +1,5 @@
 # Relay-4-Zero
- 
  <img src="Images/Relay4Zero-1.png" height="300" width="300" />
-
 ## Specifications:
   * 4 - High quality 3V Relay and loads up to 2A/24V DC or 2A/120VAC
   * LEDs for indicating status of each relay
