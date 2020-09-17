@@ -1,5 +1,6 @@
 # Relay-4-Zero
- ![GitHub Logo](/Images/Relay4Zero-1.png)
+ 
+ <img src="Images/Relay4Zero-1.png" height="300" width="300" />
 
 ## Specifications:
   * 4 - High quality 3V Relay and loads up to 2A/24V DC or 2A/120VAC
@@ -20,7 +21,10 @@
  ## Pin Description: 
  Relays are connected to the pins of the Rasberry Pi. Description of the pins connection is shown below.
    
-   * Relay1 - Pin 31
-   * Relay2 - Pin 33
-   * Relay3 - Pin 35
-   * Relay4 - Pin 37
+| Relay   | Board Pin  |
+| ------  | ---------  |
+| Relay1  | Pin 31  |
+| Relay2  | Pin 33  |
+| Relay3  | Pin 35  |
+| Relay4  | Pin 37  |
+   
